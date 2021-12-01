@@ -1,4 +1,4 @@
-![MLNW](https://theangryenglishman.github.io/make-love-not-war/make-love-not-war.gif)
+![MLNW](https://github.com/TheAngryEnglishman/make-love-not-war/blob/main/make-love-not-war.gif)
 
 # make-love-not-war
 
